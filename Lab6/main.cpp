@@ -36,7 +36,7 @@ int menu()
 }
 int main(int argc, char** argv)
 {
-	Dictionary* dic = new Dictionary("directory.txt");
+	Dictionary* dic = new Dictionary("dictionary.txt");
 	if (dic == nullptr) {
 		cout << "memoery low" << endl;
 		exit(1);

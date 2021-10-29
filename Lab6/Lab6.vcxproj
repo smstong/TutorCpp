@@ -145,7 +145,8 @@
     <ClCompile Include="UserInput.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="directory.txt" />
+    <Text Include="dictionary.txt" />
+    <Text Include="Notes.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dictionary.h" />

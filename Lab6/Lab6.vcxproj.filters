@@ -29,7 +29,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="directory.txt">
+    <Text Include="dictionary.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Notes.md">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
