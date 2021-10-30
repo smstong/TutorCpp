@@ -11,7 +11,7 @@ private:
 	static const string delimiter;
 
 private:
-	map<string, string> map;
+	std::map<string, string> map;
 	string filename;
 
 public:
